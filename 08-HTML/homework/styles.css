@@ -1,19 +1,78 @@
+body {
+
+    background: url(https://widufotografia.com/wp-content/uploads/2020/03/9-4.jpg);
+}
+
 h1 {
     color: brown;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid brown;
+}
+h3 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4 {
+    text-align: center;
+    color: bisque;
+    font-size: 15px;
 }
 img {
     width: 400px;
 
+
+}
+.divClass span {
+    
+    float: inline-end;
+    color: blanchedalmond;
+    margin-left: 150px;
+
 }
 #thirdDiv {
+   
+   
+   margin: 120px;
     height: 600px;
     width: 500px;
     background-color: burlywood;
     padding: 50px;
     border: 6px solid black;
-}
-#spanId {
-    font-size: 18px;
-    margin: 50px;
     
 }
+
+  
+
+#thirdDiv li{
+   
+    
+    padding: 10px;
+    list-style: none;
+
+}
+#spanId {
+    text-align: center;
+    font-size: 18px;
+    margin: 50px;
+   
+    
+}
+.divClass a {
+    text-decoration: none;
+   float: right;
+   color: rgb(152, 146, 158);
+   margin-right: 100px;
+
+}
+.divClass a:hover { 
+
+
+    background-color: antiquewhite;
+    color: black;
+    padding: 15px;
+    transition: 0.7s ease;
+   }
+
+
