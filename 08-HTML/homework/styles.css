@@ -2,6 +2,13 @@ body {
 
     background: url(https://widufotografia.com/wp-content/uploads/2020/03/9-4.jpg);
 }
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+
+}
 
 h1 {
     color: brown;
@@ -21,12 +28,13 @@ h4 {
 }
 img {
     width: 400px;
+    border: 3px solid black;
 
 
 }
 .divClass span {
     
-    float: inline-end;
+   
     color: blanchedalmond;
     margin-left: 150px;
 
@@ -34,12 +42,13 @@ img {
 #thirdDiv {
    
    
-   margin: 120px;
+   display: flex;
     height: 600px;
     width: 500px;
     background-color: burlywood;
     padding: 50px;
     border: 6px solid black;
+    margin-top: 30px;
     
 }
 
@@ -62,8 +71,8 @@ img {
 .divClass a {
     text-decoration: none;
    float: right;
-   color: rgb(152, 146, 158);
-   margin-right: 100px;
+   color: rgb(202, 198, 207);
+  
 
 }
 .divClass a:hover { 
