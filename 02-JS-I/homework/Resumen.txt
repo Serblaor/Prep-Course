@@ -1,0 +1,25 @@
+Variables
+
+Una variable es una forma de asignar un valor y almacenarlo para poder usarlo luego 
+
+
+Strings
+
+Los strings son cadenas de texto y se definen entre comillas, sencillas o simples.
+
+
+Funciones (argumentos, return)
+
+Una función en JavaScript es similar a un procedimiento - un conjunto de instrucciones 
+que realiza una tarea o calcula un valor,
+
+Declaraciones if
+
+La declaración IF es una declaración de toma de decisiones que guía a un programa 
+para tomar decisiones basadas en criterios específicos
+
+Valores booleanos (true, false)
+
+Un valor booleano representa un valor de verdad; es decir, TRUE o FALSE. 
+Una expresión booleana o predicado puede producir un valor de desconocido (unknown), 
+que está representado por el valor nulo.
